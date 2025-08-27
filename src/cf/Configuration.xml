@@ -248,6 +248,7 @@
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Организации</Catalog>
+			<Document>Приход</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
